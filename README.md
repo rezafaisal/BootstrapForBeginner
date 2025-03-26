@@ -1,6 +1,5 @@
 # Building Web Application Layout using Bootstrap 5
-Building Web Application Layout using Bootstrap 5
-
+![Bootstrap 5](images/01.jpg)
 1. Pendahuluan
   - Apa itu Bootstrap?
   - Mengapa Memilih Bootstrap?
