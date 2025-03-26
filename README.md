@@ -1,10 +1,10 @@
 # Building Web Application Layout using Bootstrap 5
 Building Web Application Layout using Bootstrap 5
 
-## Pendahuluan
-### Apa itu Bootstrap?
-### Mengapa Memilih Bootstrap?
-### Prasyarat Belajar
+1. Pendahuluan
+  Apa itu Bootstrap?
+  Mengapa Memilih Bootstrap?
+  Prasyarat Belajar
 
 ## Instalasi dan Setup Bootstrap 5
 ### Download dan Link CDN
