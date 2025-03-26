@@ -5,15 +5,13 @@ Building Web Application Layout using Bootstrap 5
   - Apa itu Bootstrap?
   - Mengapa Memilih Bootstrap?
   - Prasyarat Belajar
-
-## Instalasi dan Setup Bootstrap 5
-### Download dan Link CDN
-### Struktur File dan Folder
-
-## Dasar-Dasar Bootstrap
-### Grid System
-### Breakpoint dan Responsiveness
-### Typography dan Warna
+2. Instalasi dan Setup Bootstrap 5
+  - Download dan Link CDN
+  - Struktur File dan Folder
+3. Dasar-Dasar Bootstrap
+ - Grid System
+ - Breakpoint dan Responsiveness
+  - Typography dan Warna
 
 ## Membangun Layout Sederhana
 ### Header dan Footer
